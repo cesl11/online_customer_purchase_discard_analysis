@@ -7,7 +7,8 @@ La **tasa de abandono** se calculó en **6.16441 %**. El Análisis exploratorio 
 
 Se aplicó un modelo de Bosque Aleatorio (Random Forest) y otro de Regresión Logística (Logistic Regression) para clasificar las sesiones que terminaban o no en compra, y descubrir qué factores predecían mejor cómo terminaría cada sesión. A partir del análisis, se proponen estrategias de marketing e inteligencia empresarial para abordar los _insights_ (información relevante) y aumentar la cantidad de sesiones que terminan en compra.
 
-En el respositorio se adjunta el informe de investigación final que detalla el análisis con mayor profundiad.
+(Consultar el informe final de investigación en este repositorio para el análisis en profundidad)
+
 ---------------------------------------------------
 
 * **Origen de los datos:** https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D
