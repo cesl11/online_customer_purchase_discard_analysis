@@ -1,4 +1,4 @@
-# online_customer_behavior_analysis
+# Online customer behavior analysis
 
 ### Resumen:
 Este proyecto estudia un conjunto de datos públicos recopilados para el artículo _"Shopper intent predictionfrom clickstream e‑commerce datawith minimal browsing information"_, disponibles bajo acuerdo de atribución en el repositorio de GitHub _"Awesome Public Datasets"_: (https://github.com/awesomedata/awesome-public-datasets). El _dataset_, que contiene casi 5.5 millones de puntos de datos, ofrece información sobre las acciones de los visitantes de una tienda de calzado _online_: día y hora  de la sesión, acciones concretas de clicks (agregar artículos, comprar, ver detalles, etc.) y el SKU de los productos con los que se interactúa. Se busca encontrar información relevante que ayude a determinar **qué factores contribuyen a que un cliente abandone un carrito de compra**, y a partir de ella proponer soluciones y/o medidas de acción empresariales que neutralicen este comportamiento y disminuyan la tasa de abandono.
